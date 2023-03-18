@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ppa", "ppa\ppa.csproj", "{D65A050D-662B-4B40-9362-2B4FA6C51F58}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D3B62B32-27ED-450E-AABC-A35757BF21F9}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\hp\Desktop\prashan_final_with_bill\ppa\ppa\bill.xaml = C:\Users\hp\Desktop\prashan_final_with_bill\ppa\ppa\bill.xaml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{89DA5B7C-BDF3-46C8-B756-7AB0A79B6861}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D65A050D-662B-4B40-9362-2B4FA6C51F58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D65A050D-662B-4B40-9362-2B4FA6C51F58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D65A050D-662B-4B40-9362-2B4FA6C51F58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D65A050D-662B-4B40-9362-2B4FA6C51F58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {036AA63D-4EC4-45C2-8088-1A71BCCD08A7}
+	EndGlobalSection
+EndGlobal

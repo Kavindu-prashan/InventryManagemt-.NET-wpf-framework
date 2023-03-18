@@ -1,0 +1,244 @@
+C:\Users\Uditha Nayanajith\Desktop\prashan\ppa\ppa\bin\Debug\ppa.exe.config
+C:\Users\Uditha Nayanajith\Desktop\prashan\ppa\ppa\bin\Debug\ppa.exe
+C:\Users\Uditha Nayanajith\Desktop\prashan\ppa\ppa\bin\Debug\ppa.pdb
+C:\Users\Uditha Nayanajith\Desktop\prashan\ppa\ppa\obj\Debug\ppa.csprojResolveAssemblyReference.cache
+C:\Users\Uditha Nayanajith\Desktop\prashan\ppa\ppa\obj\Debug\addsuplier.g.cs
+C:\Users\Uditha Nayanajith\Desktop\prashan\ppa\ppa\obj\Debug\MainWindow.g.cs
+C:\Users\Uditha Nayanajith\Desktop\prashan\ppa\ppa\obj\Debug\viewsuplier.g.cs
+C:\Users\Uditha Nayanajith\Desktop\prashan\ppa\ppa\obj\Debug\App.g.cs
+C:\Users\Uditha Nayanajith\Desktop\prashan\ppa\ppa\obj\Debug\ppa_MarkupCompile.cache
+C:\Users\Uditha Nayanajith\Desktop\prashan\ppa\ppa\obj\Debug\ppa_MarkupCompile.lref
+C:\Users\Uditha Nayanajith\Desktop\prashan\ppa\ppa\obj\Debug\addsuplier.baml
+C:\Users\Uditha Nayanajith\Desktop\prashan\ppa\ppa\obj\Debug\MainWindow.baml
+C:\Users\Uditha Nayanajith\Desktop\prashan\ppa\ppa\obj\Debug\viewsuplier.baml
+C:\Users\Uditha Nayanajith\Desktop\prashan\ppa\ppa\obj\Debug\ppa.g.resources
+C:\Users\Uditha Nayanajith\Desktop\prashan\ppa\ppa\obj\Debug\ppa.Properties.Resources.resources
+C:\Users\Uditha Nayanajith\Desktop\prashan\ppa\ppa\obj\Debug\ppa.csproj.GenerateResource.Cache
+C:\Users\Uditha Nayanajith\Desktop\prashan\ppa\ppa\obj\Debug\ppa.exe
+C:\Users\Uditha Nayanajith\Desktop\prashan\ppa\ppa\obj\Debug\ppa.pdb
+C:\Users\Uditha Nayanajith\Desktop\prashan\ppa\ppa\obj\Debug\manager.g.cs
+C:\Users\Uditha Nayanajith\Desktop\prashan\ppa\ppa\obj\Debug\manager.baml
+C:\Users\Uditha Nayanajith\Desktop\prashan\ppa\ppa\obj\Debug\admin.g.cs
+C:\Users\Uditha Nayanajith\Desktop\prashan\ppa\ppa\obj\Debug\admin.baml
+C:\Users\Uditha Nayanajith\Desktop\prashan\ppa\ppa\obj\Debug\new_customer.g.cs
+C:\Users\Uditha Nayanajith\Desktop\prashan\ppa\ppa\obj\Debug\new_customer.baml
+C:\Users\Uditha Nayanajith\Desktop\prashan\ppa\ppa\obj\Debug\add_stock.g.cs
+C:\Users\Uditha Nayanajith\Desktop\prashan\ppa\ppa\obj\Debug\add_stock.baml
+C:\Users\Uditha Nayanajith\Desktop\prashan\ppa\ppa\obj\Debug\view_stock.g.cs
+C:\Users\Uditha Nayanajith\Desktop\prashan\ppa\ppa\obj\Debug\view_stock.baml
+C:\Users\Uditha Nayanajith\Desktop\prashan\ppa\ppa\obj\Debug\Window1.g.cs
+C:\Users\Uditha Nayanajith\Desktop\prashan\ppa\ppa\obj\Debug\Window1.baml
+C:\Users\Uditha Nayanajith\Desktop\prashan - Copy\ppa\ppa\bin\Debug\ppa.exe.config
+C:\Users\Uditha Nayanajith\Desktop\prashan - Copy\ppa\ppa\obj\Debug\ppa.exe
+C:\Users\Uditha Nayanajith\Desktop\prashan - Copy\ppa\ppa\obj\Debug\ppa.pdb
+C:\Users\Uditha Nayanajith\Desktop\prashan - Copy\ppa\ppa\bin\Debug\ppa.exe
+C:\Users\Uditha Nayanajith\Desktop\prashan - Copy\ppa\ppa\bin\Debug\ppa.pdb
+C:\Users\Uditha Nayanajith\Desktop\prashan - Copy\ppa\ppa\obj\Debug\ppa.csprojResolveAssemblyReference.cache
+C:\Users\Uditha Nayanajith\Desktop\prashan - Copy\ppa\ppa\obj\Debug\addsuplier.g.cs
+C:\Users\Uditha Nayanajith\Desktop\prashan - Copy\ppa\ppa\obj\Debug\add_stock.g.cs
+C:\Users\Uditha Nayanajith\Desktop\prashan - Copy\ppa\ppa\obj\Debug\admin.g.cs
+C:\Users\Uditha Nayanajith\Desktop\prashan - Copy\ppa\ppa\obj\Debug\MainWindow.g.cs
+C:\Users\Uditha Nayanajith\Desktop\prashan - Copy\ppa\ppa\obj\Debug\manager.g.cs
+C:\Users\Uditha Nayanajith\Desktop\prashan - Copy\ppa\ppa\obj\Debug\new_customer.g.cs
+C:\Users\Uditha Nayanajith\Desktop\prashan - Copy\ppa\ppa\obj\Debug\viewsuplier.g.cs
+C:\Users\Uditha Nayanajith\Desktop\prashan - Copy\ppa\ppa\obj\Debug\view_stock.g.cs
+C:\Users\Uditha Nayanajith\Desktop\prashan - Copy\ppa\ppa\obj\Debug\Window1.g.cs
+C:\Users\Uditha Nayanajith\Desktop\prashan - Copy\ppa\ppa\obj\Debug\App.g.cs
+C:\Users\Uditha Nayanajith\Desktop\prashan - Copy\ppa\ppa\obj\Debug\ppa_MarkupCompile.cache
+C:\Users\Uditha Nayanajith\Desktop\prashan - Copy\ppa\ppa\obj\Debug\ppa_MarkupCompile.lref
+C:\Users\Uditha Nayanajith\Desktop\prashan - Copy\ppa\ppa\obj\Debug\addsuplier.baml
+C:\Users\Uditha Nayanajith\Desktop\prashan - Copy\ppa\ppa\obj\Debug\add_stock.baml
+C:\Users\Uditha Nayanajith\Desktop\prashan - Copy\ppa\ppa\obj\Debug\admin.baml
+C:\Users\Uditha Nayanajith\Desktop\prashan - Copy\ppa\ppa\obj\Debug\MainWindow.baml
+C:\Users\Uditha Nayanajith\Desktop\prashan - Copy\ppa\ppa\obj\Debug\manager.baml
+C:\Users\Uditha Nayanajith\Desktop\prashan - Copy\ppa\ppa\obj\Debug\new_customer.baml
+C:\Users\Uditha Nayanajith\Desktop\prashan - Copy\ppa\ppa\obj\Debug\viewsuplier.baml
+C:\Users\Uditha Nayanajith\Desktop\prashan - Copy\ppa\ppa\obj\Debug\view_stock.baml
+C:\Users\Uditha Nayanajith\Desktop\prashan - Copy\ppa\ppa\obj\Debug\Window1.baml
+C:\Users\Uditha Nayanajith\Desktop\prashan - Copy\ppa\ppa\obj\Debug\ppa.g.resources
+C:\Users\Uditha Nayanajith\Desktop\prashan - Copy\ppa\ppa\obj\Debug\ppa.Properties.Resources.resources
+C:\Users\Uditha Nayanajith\Desktop\prashan - Copy\ppa\ppa\obj\Debug\ppa.csproj.GenerateResource.Cache
+C:\Users\Uditha Nayanajith\Desktop\prashan - Copy\ppa\ppa\obj\Debug\bill.g.cs
+C:\Users\Uditha Nayanajith\Desktop\prashan - Copy\ppa\ppa\obj\Debug\bill.baml
+C:\Users\Uditha Nayanajith\Desktop\prashan - Copy\ppa\ppa\obj\Debug\reports.g.cs
+C:\Users\Uditha Nayanajith\Desktop\prashan - Copy\ppa\ppa\obj\Debug\reports.baml
+C:\Users\Uditha Nayanajith\Desktop\prashan - Copy\ppa\ppa\obj\Debug\customer_report.g.cs
+C:\Users\Uditha Nayanajith\Desktop\prashan - Copy\ppa\ppa\obj\Debug\customer_report.baml
+C:\Users\Uditha Nayanajith\Desktop\prashan - Copy\ppa\ppa\obj\Debug\sales_rpt.g.cs
+C:\Users\Uditha Nayanajith\Desktop\prashan - Copy\ppa\ppa\obj\Debug\sales_rpt.baml
+C:\Users\Uditha Nayanajith\Desktop\prashan - Copy\ppa\ppa\obj\Debug\suplier_rpt.g.cs
+C:\Users\Uditha Nayanajith\Desktop\prashan - Copy\ppa\ppa\obj\Debug\suplier_rpt.baml
+C:\Users\Uditha Nayanajith\Desktop\prashan - Copy\ppa\ppa\obj\Debug\stock_rpt.g.cs
+C:\Users\Uditha Nayanajith\Desktop\prashan - Copy\ppa\ppa\obj\Debug\stock_rpt.baml
+C:\Users\Uditha Nayanajith\Desktop\prashan_final\ppa\ppa\bin\Debug\ppa.exe.config
+C:\Users\Uditha Nayanajith\Desktop\prashan_final\ppa\ppa\obj\Debug\ppa.exe
+C:\Users\Uditha Nayanajith\Desktop\prashan_final\ppa\ppa\obj\Debug\ppa.pdb
+D:\projets\prashan_final\ppa\ppa\bin\Debug\ppa.exe.config
+D:\projets\prashan_final\ppa\ppa\obj\Debug\ppa.exe
+D:\projets\prashan_final\ppa\ppa\obj\Debug\ppa.pdb
+D:\projets\prashan_final\ppa\ppa\obj\Debug\ppa.csprojResolveAssemblyReference.cache
+D:\projets\prashan_final\ppa\ppa\obj\Debug\addsuplier.g.cs
+D:\projets\prashan_final\ppa\ppa\obj\Debug\add_stock.g.cs
+D:\projets\prashan_final\ppa\ppa\obj\Debug\admin.g.cs
+D:\projets\prashan_final\ppa\ppa\obj\Debug\bill.g.cs
+D:\projets\prashan_final\ppa\ppa\obj\Debug\customer_report.g.cs
+D:\projets\prashan_final\ppa\ppa\obj\Debug\MainWindow.g.cs
+D:\projets\prashan_final\ppa\ppa\obj\Debug\manager.g.cs
+D:\projets\prashan_final\ppa\ppa\obj\Debug\new_customer.g.cs
+D:\projets\prashan_final\ppa\ppa\obj\Debug\reports.g.cs
+D:\projets\prashan_final\ppa\ppa\obj\Debug\sales_rpt.g.cs
+D:\projets\prashan_final\ppa\ppa\obj\Debug\stock_rpt.g.cs
+D:\projets\prashan_final\ppa\ppa\obj\Debug\suplier_rpt.g.cs
+D:\projets\prashan_final\ppa\ppa\obj\Debug\viewsuplier.g.cs
+D:\projets\prashan_final\ppa\ppa\obj\Debug\view_stock.g.cs
+D:\projets\prashan_final\ppa\ppa\obj\Debug\Window1.g.cs
+D:\projets\prashan_final\ppa\ppa\obj\Debug\App.g.cs
+D:\projets\prashan_final\ppa\ppa\obj\Debug\ppa_MarkupCompile.cache
+D:\projets\prashan_final\ppa\ppa\obj\Debug\ppa_MarkupCompile.lref
+D:\projets\prashan_final\ppa\ppa\bin\Debug\ppa.exe
+D:\projets\prashan_final\ppa\ppa\bin\Debug\ppa.pdb
+D:\projets\prashan_final\ppa\ppa\obj\Debug\addsuplier.baml
+D:\projets\prashan_final\ppa\ppa\obj\Debug\add_stock.baml
+D:\projets\prashan_final\ppa\ppa\obj\Debug\admin.baml
+D:\projets\prashan_final\ppa\ppa\obj\Debug\bill.baml
+D:\projets\prashan_final\ppa\ppa\obj\Debug\customer_report.baml
+D:\projets\prashan_final\ppa\ppa\obj\Debug\MainWindow.baml
+D:\projets\prashan_final\ppa\ppa\obj\Debug\manager.baml
+D:\projets\prashan_final\ppa\ppa\obj\Debug\new_customer.baml
+D:\projets\prashan_final\ppa\ppa\obj\Debug\reports.baml
+D:\projets\prashan_final\ppa\ppa\obj\Debug\sales_rpt.baml
+D:\projets\prashan_final\ppa\ppa\obj\Debug\stock_rpt.baml
+D:\projets\prashan_final\ppa\ppa\obj\Debug\suplier_rpt.baml
+D:\projets\prashan_final\ppa\ppa\obj\Debug\viewsuplier.baml
+D:\projets\prashan_final\ppa\ppa\obj\Debug\view_stock.baml
+D:\projets\prashan_final\ppa\ppa\obj\Debug\Window1.baml
+D:\projets\prashan_final\ppa\ppa\obj\Debug\ppa.g.resources
+D:\projets\prashan_final\ppa\ppa\obj\Debug\ppa.Properties.Resources.resources
+D:\projets\prashan_final\ppa\ppa\obj\Debug\ppa.csproj.GenerateResource.Cache
+D:\SLIIT\prashan_final\ppa\ppa\bin\Debug\ppa.exe.config
+D:\SLIIT\prashan_final\ppa\ppa\obj\Debug\ppa.exe
+D:\SLIIT\prashan_final\ppa\ppa\obj\Debug\ppa.pdb
+D:\SLIIT\prashan_final\ppa\ppa\bin\Debug\ppa.exe
+D:\SLIIT\prashan_final\ppa\ppa\bin\Debug\ppa.pdb
+D:\SLIIT\prashan_final\ppa\ppa\obj\Debug\ppa.csprojResolveAssemblyReference.cache
+D:\SLIIT\prashan_final\ppa\ppa\obj\Debug\addsuplier.g.cs
+D:\SLIIT\prashan_final\ppa\ppa\obj\Debug\add_stock.g.cs
+D:\SLIIT\prashan_final\ppa\ppa\obj\Debug\admin.g.cs
+D:\SLIIT\prashan_final\ppa\ppa\obj\Debug\bill.g.cs
+D:\SLIIT\prashan_final\ppa\ppa\obj\Debug\customer_report.g.cs
+D:\SLIIT\prashan_final\ppa\ppa\obj\Debug\MainWindow.g.cs
+D:\SLIIT\prashan_final\ppa\ppa\obj\Debug\manager.g.cs
+D:\SLIIT\prashan_final\ppa\ppa\obj\Debug\new_customer.g.cs
+D:\SLIIT\prashan_final\ppa\ppa\obj\Debug\reports.g.cs
+D:\SLIIT\prashan_final\ppa\ppa\obj\Debug\sales_rpt.g.cs
+D:\SLIIT\prashan_final\ppa\ppa\obj\Debug\stock_rpt.g.cs
+D:\SLIIT\prashan_final\ppa\ppa\obj\Debug\suplier_rpt.g.cs
+D:\SLIIT\prashan_final\ppa\ppa\obj\Debug\viewsuplier.g.cs
+D:\SLIIT\prashan_final\ppa\ppa\obj\Debug\view_stock.g.cs
+D:\SLIIT\prashan_final\ppa\ppa\obj\Debug\Window1.g.cs
+D:\SLIIT\prashan_final\ppa\ppa\obj\Debug\App.g.cs
+D:\SLIIT\prashan_final\ppa\ppa\obj\Debug\ppa_MarkupCompile.cache
+D:\SLIIT\prashan_final\ppa\ppa\obj\Debug\ppa_MarkupCompile.lref
+D:\SLIIT\prashan_final\ppa\ppa\obj\Debug\addsuplier.baml
+D:\SLIIT\prashan_final\ppa\ppa\obj\Debug\add_stock.baml
+D:\SLIIT\prashan_final\ppa\ppa\obj\Debug\admin.baml
+D:\SLIIT\prashan_final\ppa\ppa\obj\Debug\bill.baml
+D:\SLIIT\prashan_final\ppa\ppa\obj\Debug\customer_report.baml
+D:\SLIIT\prashan_final\ppa\ppa\obj\Debug\MainWindow.baml
+D:\SLIIT\prashan_final\ppa\ppa\obj\Debug\manager.baml
+D:\SLIIT\prashan_final\ppa\ppa\obj\Debug\new_customer.baml
+D:\SLIIT\prashan_final\ppa\ppa\obj\Debug\reports.baml
+D:\SLIIT\prashan_final\ppa\ppa\obj\Debug\sales_rpt.baml
+D:\SLIIT\prashan_final\ppa\ppa\obj\Debug\stock_rpt.baml
+D:\SLIIT\prashan_final\ppa\ppa\obj\Debug\suplier_rpt.baml
+D:\SLIIT\prashan_final\ppa\ppa\obj\Debug\viewsuplier.baml
+D:\SLIIT\prashan_final\ppa\ppa\obj\Debug\view_stock.baml
+D:\SLIIT\prashan_final\ppa\ppa\obj\Debug\Window1.baml
+D:\SLIIT\prashan_final\ppa\ppa\obj\Debug\ppa.g.resources
+D:\SLIIT\prashan_final\ppa\ppa\obj\Debug\ppa.Properties.Resources.resources
+D:\SLIIT\prashan_final\ppa\ppa\obj\Debug\ppa.csproj.GenerateResource.Cache
+D:\SLIIT\prashan_final project 1\ppa\ppa\bin\Debug\ppa.exe.config
+D:\SLIIT\prashan_final project 1\ppa\ppa\obj\Debug\ppa.exe
+D:\SLIIT\prashan_final project 1\ppa\ppa\obj\Debug\ppa.pdb
+D:\SLIIT\prashan_final project 1\ppa\ppa\bin\Debug\ppa.exe
+D:\SLIIT\prashan_final project 1\ppa\ppa\bin\Debug\ppa.pdb
+D:\SLIIT\prashan_final project 1\ppa\ppa\obj\Debug\ppa.csprojResolveAssemblyReference.cache
+D:\SLIIT\prashan_final project 1\ppa\ppa\obj\Debug\addsuplier.g.cs
+D:\SLIIT\prashan_final project 1\ppa\ppa\obj\Debug\add_stock.g.cs
+D:\SLIIT\prashan_final project 1\ppa\ppa\obj\Debug\admin.g.cs
+D:\SLIIT\prashan_final project 1\ppa\ppa\obj\Debug\bill.g.cs
+D:\SLIIT\prashan_final project 1\ppa\ppa\obj\Debug\customer_report.g.cs
+D:\SLIIT\prashan_final project 1\ppa\ppa\obj\Debug\MainWindow.g.cs
+D:\SLIIT\prashan_final project 1\ppa\ppa\obj\Debug\manager.g.cs
+D:\SLIIT\prashan_final project 1\ppa\ppa\obj\Debug\new_customer.g.cs
+D:\SLIIT\prashan_final project 1\ppa\ppa\obj\Debug\reports.g.cs
+D:\SLIIT\prashan_final project 1\ppa\ppa\obj\Debug\sales_rpt.g.cs
+D:\SLIIT\prashan_final project 1\ppa\ppa\obj\Debug\stock_rpt.g.cs
+D:\SLIIT\prashan_final project 1\ppa\ppa\obj\Debug\suplier_rpt.g.cs
+D:\SLIIT\prashan_final project 1\ppa\ppa\obj\Debug\viewsuplier.g.cs
+D:\SLIIT\prashan_final project 1\ppa\ppa\obj\Debug\view_stock.g.cs
+D:\SLIIT\prashan_final project 1\ppa\ppa\obj\Debug\Window1.g.cs
+D:\SLIIT\prashan_final project 1\ppa\ppa\obj\Debug\App.g.cs
+D:\SLIIT\prashan_final project 1\ppa\ppa\obj\Debug\ppa_MarkupCompile.cache
+D:\SLIIT\prashan_final project 1\ppa\ppa\obj\Debug\ppa_MarkupCompile.lref
+D:\SLIIT\prashan_final project 1\ppa\ppa\obj\Debug\addsuplier.baml
+D:\SLIIT\prashan_final project 1\ppa\ppa\obj\Debug\add_stock.baml
+D:\SLIIT\prashan_final project 1\ppa\ppa\obj\Debug\admin.baml
+D:\SLIIT\prashan_final project 1\ppa\ppa\obj\Debug\bill.baml
+D:\SLIIT\prashan_final project 1\ppa\ppa\obj\Debug\customer_report.baml
+D:\SLIIT\prashan_final project 1\ppa\ppa\obj\Debug\MainWindow.baml
+D:\SLIIT\prashan_final project 1\ppa\ppa\obj\Debug\manager.baml
+D:\SLIIT\prashan_final project 1\ppa\ppa\obj\Debug\new_customer.baml
+D:\SLIIT\prashan_final project 1\ppa\ppa\obj\Debug\reports.baml
+D:\SLIIT\prashan_final project 1\ppa\ppa\obj\Debug\sales_rpt.baml
+D:\SLIIT\prashan_final project 1\ppa\ppa\obj\Debug\stock_rpt.baml
+D:\SLIIT\prashan_final project 1\ppa\ppa\obj\Debug\suplier_rpt.baml
+D:\SLIIT\prashan_final project 1\ppa\ppa\obj\Debug\viewsuplier.baml
+D:\SLIIT\prashan_final project 1\ppa\ppa\obj\Debug\view_stock.baml
+D:\SLIIT\prashan_final project 1\ppa\ppa\obj\Debug\Window1.baml
+D:\SLIIT\prashan_final project 1\ppa\ppa\obj\Debug\ppa.g.resources
+D:\SLIIT\prashan_final project 1\ppa\ppa\obj\Debug\ppa.Properties.Resources.resources
+D:\SLIIT\prashan_final project 1\ppa\ppa\obj\Debug\ppa.csproj.GenerateResource.Cache
+D:\sliit\projets\PPA Project\prashan_final project 1\ppa\ppa\bin\Debug\ppa.exe.config
+D:\sliit\projets\PPA Project\prashan_final project 1\ppa\ppa\obj\Debug\ppa.exe
+D:\sliit\projets\PPA Project\prashan_final project 1\ppa\ppa\obj\Debug\ppa.pdb
+D:\sliit\projets\PPA Project\prashan_final project 1\ppa\ppa\bin\Debug\ppa.exe
+D:\sliit\projets\PPA Project\prashan_final project 1\ppa\ppa\bin\Debug\ppa.pdb
+D:\sliit\projets\PPA Project\prashan_final project 1\ppa\ppa\obj\Debug\addsuplier.g.cs
+D:\sliit\projets\PPA Project\prashan_final project 1\ppa\ppa\obj\Debug\add_stock.g.cs
+D:\sliit\projets\PPA Project\prashan_final project 1\ppa\ppa\obj\Debug\admin.g.cs
+D:\sliit\projets\PPA Project\prashan_final project 1\ppa\ppa\obj\Debug\bill.g.cs
+D:\sliit\projets\PPA Project\prashan_final project 1\ppa\ppa\obj\Debug\customer_report.g.cs
+D:\sliit\projets\PPA Project\prashan_final project 1\ppa\ppa\obj\Debug\MainWindow.g.cs
+D:\sliit\projets\PPA Project\prashan_final project 1\ppa\ppa\obj\Debug\manager.g.cs
+D:\sliit\projets\PPA Project\prashan_final project 1\ppa\ppa\obj\Debug\new_customer.g.cs
+D:\sliit\projets\PPA Project\prashan_final project 1\ppa\ppa\obj\Debug\reports.g.cs
+D:\sliit\projets\PPA Project\prashan_final project 1\ppa\ppa\obj\Debug\sales_rpt.g.cs
+D:\sliit\projets\PPA Project\prashan_final project 1\ppa\ppa\obj\Debug\stock_rpt.g.cs
+D:\sliit\projets\PPA Project\prashan_final project 1\ppa\ppa\obj\Debug\suplier_rpt.g.cs
+D:\sliit\projets\PPA Project\prashan_final project 1\ppa\ppa\obj\Debug\viewsuplier.g.cs
+D:\sliit\projets\PPA Project\prashan_final project 1\ppa\ppa\obj\Debug\view_stock.g.cs
+D:\sliit\projets\PPA Project\prashan_final project 1\ppa\ppa\obj\Debug\Window1.g.cs
+D:\sliit\projets\PPA Project\prashan_final project 1\ppa\ppa\obj\Debug\App.g.cs
+D:\sliit\projets\PPA Project\prashan_final project 1\ppa\ppa\obj\Debug\ppa_MarkupCompile.cache
+D:\sliit\projets\PPA Project\prashan_final project 1\ppa\ppa\obj\Debug\ppa_MarkupCompile.lref
+D:\sliit\projets\PPA Project\prashan_final project 1\ppa\ppa\obj\Debug\addsuplier.baml
+D:\sliit\projets\PPA Project\prashan_final project 1\ppa\ppa\obj\Debug\add_stock.baml
+D:\sliit\projets\PPA Project\prashan_final project 1\ppa\ppa\obj\Debug\admin.baml
+D:\sliit\projets\PPA Project\prashan_final project 1\ppa\ppa\obj\Debug\bill.baml
+D:\sliit\projets\PPA Project\prashan_final project 1\ppa\ppa\obj\Debug\customer_report.baml
+D:\sliit\projets\PPA Project\prashan_final project 1\ppa\ppa\obj\Debug\MainWindow.baml
+D:\sliit\projets\PPA Project\prashan_final project 1\ppa\ppa\obj\Debug\manager.baml
+D:\sliit\projets\PPA Project\prashan_final project 1\ppa\ppa\obj\Debug\new_customer.baml
+D:\sliit\projets\PPA Project\prashan_final project 1\ppa\ppa\obj\Debug\reports.baml
+D:\sliit\projets\PPA Project\prashan_final project 1\ppa\ppa\obj\Debug\sales_rpt.baml
+D:\sliit\projets\PPA Project\prashan_final project 1\ppa\ppa\obj\Debug\stock_rpt.baml
+D:\sliit\projets\PPA Project\prashan_final project 1\ppa\ppa\obj\Debug\suplier_rpt.baml
+D:\sliit\projets\PPA Project\prashan_final project 1\ppa\ppa\obj\Debug\viewsuplier.baml
+D:\sliit\projets\PPA Project\prashan_final project 1\ppa\ppa\obj\Debug\view_stock.baml
+D:\sliit\projets\PPA Project\prashan_final project 1\ppa\ppa\obj\Debug\Window1.baml
+D:\sliit\projets\PPA Project\prashan_final project 1\ppa\ppa\obj\Debug\ppa.g.resources
+D:\sliit\projets\PPA Project\prashan_final project 1\ppa\ppa\obj\Debug\ppa.Properties.Resources.resources
+D:\sliit\projets\PPA Project\prashan_final project 1\ppa\ppa\obj\Debug\ppa.csproj.GenerateResource.cache
+D:\sliit\projets\PPA Project\prashan_final project 1\ppa\ppa\obj\Debug\ppa.csproj.CoreCompileInputs.cache
+D:\sliit\projets\PPA Project\prashan_final project 1\ppa\ppa\obj\Debug\ppa.csproj.AssemblyReference.cache
